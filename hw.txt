@@ -1,0 +1,9 @@
+ public static void main(String []args){
+        amal();
+     }
+    public static void amal (){
+        for(int a=1; a<=10 ;a++){
+        System.out.println(a);
+        }
+    }
+}
